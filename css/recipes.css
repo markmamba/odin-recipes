@@ -103,4 +103,5 @@ li {
   .topnav a:hover {
     background-color: lightcoral;
     color: white;
+    border-radius: 5px;
   }
